@@ -1,2 +1,2 @@
 # image.html
-image and paragraph html5 page
+images and paragraph html5 page
